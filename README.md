@@ -1,10 +1,3 @@
-# Evolution-Paradigme
-
-Bienvenue dans ce projet de suivi de l'évolution de l'Intelligence Artificielle. Ce dépôt analyse les cycles de "Booms" (pics d'innovation) et de "Winters" (phases d'exploitation industrielle).
-
-## 📈 Frise Chronologique de l'IA
-
-```mermaid
 gantt
     title Cycles de l'IA (1960 - 2050)
     dateFormat  YYYY
