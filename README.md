@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Cycles de l'IA (1960 - 2050)
     dateFormat  YYYY
