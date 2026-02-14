@@ -15,3 +15,15 @@ Projet de suivi de l'évolution de l'IA (1960 - 2050).
 | :--- | :--- | :--- | :--- |
 | **Moteur** | Logique | Statistiques | Auto-organisation |
 | **Objectif** | Problèmes | Modèles | Conscience |
+---
+### 📈 Intensité des Cycles (Données du tableur)
+
+| Période | Phase | Intensité |
+| :--- | :--- | :--- |
+| 1960-1970 | Boom 1 | 5/10 |
+| 1971-1980 | Winter 1 | 1/10 |
+| 1981-1990 | Boom 2 | 6/10 |
+| 1991-2000 | Winter 2 | 2/10 |
+| 2001-2015 | Boom 3 | 8/10 |
+| 2016-2025 | Boom 4 | 9/10 |
+| 2026-2050 | Boom 5 | 10/10 |
