@@ -3,8 +3,8 @@
 Projet de suivi de l'évolution de l'IA (1960 - 2050).
 
 ## 📅 Les Grandes Étapes
-* **1960s** : Boom 1 - GOFAI (Recherche Heuristique)
-* **1980s** : Boom 2 - Systèmes Experts
+* **1960s** : [Boom 1 - GOFAI (Recherche Heuristique)](concepts/boom1-gofai.md)
+* **1980s** : [Boom 2 - Systèmes Experts](concepts/boom2-systemes-experts.md)
 * **2000s** : [Boom 3 - Machine Learning](./concepts/Boom3_MachineLearning.md)
 * **2020s** : [Boom 4 - Vie Artificielle](./concepts/Boom4_ArtificialLife.md)
 * **2040s** : [Boom 5 - Conscience Artificielle](./concepts/Boom5_ArtificialConsciousness.md)
